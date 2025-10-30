@@ -1,7 +1,5 @@
 # My Favorite Series: Sherlock 🕵️‍♂️
 
-![Sherlock Poster](https://upload.wikimedia.org/wikipedia/en/b/b9/Sherlock_titlecard.jpg)
-
 **Genre:** Crime, Mystery, Drama  
 **Created by:** Mark Gatiss and Steven Moffat  
 **Starring:** Benedict Cumberbatch and Martin Freeman  
@@ -24,6 +22,5 @@ Each episode is **around 90 minutes long**, making it feel more like a movie tha
 ### 🔗 Learn More
 You can read more about the show here:  
 [Sherlock on IMDb](https://www.imdb.com/title/tt1475582/)
-
 
 *Added by Denisse Andrea M. Cabanela*  
